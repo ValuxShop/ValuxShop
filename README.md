@@ -5,6 +5,8 @@
 - JavaScript
 - Python
 - HTML
+- css
+- scss
 
 **Contact**
 
